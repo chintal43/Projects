@@ -8,7 +8,7 @@
     1. Java,
     2. PHP,
     3. Unix / Linux
-    // Python , GO
+    
   
 3) Web Technologies ::  
     1. HTML,
@@ -19,12 +19,12 @@
     6. Servlets,
     7. Javascript,
     8. jQuery
-    // 
+    
   
 4) DataBase ::
     1. MySQL,
     2. MongoDB
-    //
+    
 
 5) Framework / Plateforms ::
     1. MapReduce,
@@ -45,5 +45,5 @@
 7) Software Development ::
     1. RESTful APIs,
     2. Agilemethodology (Scrum)
-    // GOF Software Design Patterns, GRASP.
+
 
